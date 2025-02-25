@@ -1,6 +1,6 @@
 <h1 align="left">Hey, I'm Nickii. 👋 What's up?</h1>
 
-<p align="left">✨ Building and breaking things since 2016 ...<br>📚 I'm currently learning Site Reliability Engineering and how to build LLM agents.<br> 📫 How to reach me: 📧 <a href="miaronkirote@gmail.com">miaronkirote@gmail.com</a></p>
+<p align="left">✨ Building, fixing and breaking things since 2016 ...<br>📚 I'm currently learning Site Reliability Engineering and how to build LLM agents.<br> 📫 How to reach me: 📧 <a href="miaronkirote@gmail.com">miaronkirote@gmail.com</a></p>
 
 ###
 
